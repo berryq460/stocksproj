@@ -1,0 +1,16 @@
+  .app-header {
+    overflow: hidden;
+    /* position: -webkit-sticky;
+    position: sticky; */
+    background-color:#616161 ;
+    margin-bottom: 10px;
+  }
+  
+  header .app-title  {
+    color: white;
+    width: 12rem;
+    padding: 1px 0;
+    margin-left: 20px;
+    overflow: hidden;
+    float: left;
+  }
